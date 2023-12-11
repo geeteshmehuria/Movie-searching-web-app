@@ -1,5 +1,6 @@
 ## [Movie-mini-app](https://movie-mini-app.vercel.app/)
-IMDB movie Search
+
+# IMDB movie Search web app
 
 ## Description
  Movie searching web app searches the movie based on input value which we write into the input tag and click on the get start teg
