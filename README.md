@@ -1,4 +1,4 @@
-## [Movie-mini-app](https://vercel.com/geetesh-mehurias-projects/movie-mini-app)
+## [Movie-mini-app](https://movie-mini-app.vercel.app/)
 IMDB movie Search
 
 ## Description
